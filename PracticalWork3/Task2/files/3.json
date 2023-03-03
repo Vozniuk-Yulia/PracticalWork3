@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Juice",
+    "Category": "Drink",
+    "Price": 48
+  },
+  {
+    "Name": "Tomatos",
+    "Category": "Vegetable",
+    "Price": 120
+  },
+  {
+    "Name": "Croissant",
+    "Category": "Bakery",
+    "Price": 20
+  }
+]

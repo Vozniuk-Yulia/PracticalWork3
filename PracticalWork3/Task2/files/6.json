@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Quail",
+    "Category": "Meat",
+    "Price": 239
+  },
+  {
+    "Name": "Orange",
+    "Category": "Fruit",
+    "Price": 89
+  },
+  {
+    "Name": "Hlibtsi",
+    "Category": "Bakery",
+    "Price": 57
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "Ham",
+    "Category": "Meat",
+    "Price": 245
+  },
+  {
+    "Name": "Cucumber",
+    "Category": "Vegetable",
+    "Price": 112
+  }
+]

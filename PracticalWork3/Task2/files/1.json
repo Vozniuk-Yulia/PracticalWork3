@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "Apple",
+    "Category": "Fruit",
+    "Price": 25
+  },
+  {
+    "Name": "Tomatos",
+    "Category": "Vegetable",
+    "Price": 120
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "Cheese",
+    "Category": "Sour Milk",
+    "Price": 57
+  },
+  {
+    "Name": "Cakes",
+    "Category": "Bakery",
+    "Price": 185
+  }
+]

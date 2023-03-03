@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "Kiwi",
+    "Category": "Fruit",
+    "Price": 70
+  },
+  {
+    "Name": "Minced beef",
+    "Category": "Meat",
+    "Price": 162
+  }
+]

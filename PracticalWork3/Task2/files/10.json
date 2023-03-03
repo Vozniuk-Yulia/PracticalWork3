@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Kvass",
+    "Category": "Drink",
+    "Price": 25
+  },
+  {
+    "Name": "Pepper",
+    "Category": "Vegetable",
+    "Price": 239
+  },
+  {
+    "Name": "Carrot",
+    "Category": "Vegetable",
+    "Price": 35
+  }
+]
